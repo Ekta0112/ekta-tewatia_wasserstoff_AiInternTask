@@ -1,0 +1,11 @@
+!pip install pytesseract
+!pip install streamlit -q
+!pip install yolov5 # install the missing module
+!sudo apt-get install tesseract-ocr
+!pip install pytesseract
+!pip install pytesseract
+!pip install Pillow
+!apt-get install tesseract-ocr
+!which tesseract
+pre-trained segmentation models
+opencv-python
