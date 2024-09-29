@@ -1,0 +1,89 @@
+{
+    "Master_Image": "/content/temp_uploaded_image.jpg",
+    "Objects": [
+        {
+            "Object_ID": "object_1",
+            "Image_File": "object_2.png",
+            "Extracted_Text": "No text extracted.",
+            "Summary": "No text extracted."
+        },
+        {
+            "Object_ID": "object_2",
+            "Image_File": "object_7.png",
+            "Extracted_Text": "No text extracted.",
+            "Summary": "No text extracted."
+        },
+        {
+            "Object_ID": "object_3",
+            "Image_File": "object_4.png",
+            "Extracted_Text": "No text extracted.",
+            "Summary": "No text extracted."
+        },
+        {
+            "Object_ID": "object_4",
+            "Image_File": "object_9.png",
+            "Extracted_Text": "No text extracted.",
+            "Summary": "No text extracted."
+        },
+        {
+            "Object_ID": "object_5",
+            "Image_File": "object_8.png",
+            "Extracted_Text": "No text extracted.",
+            "Summary": "No text extracted."
+        },
+        {
+            "Object_ID": "object_6",
+            "Image_File": "object_5.png",
+            "Extracted_Text": "No text extracted.",
+            "Summary": "No text extracted."
+        },
+        {
+            "Object_ID": "object_7",
+            "Image_File": "object_1.png",
+            "Extracted_Text": "No text extracted.",
+            "Summary": "No text extracted."
+        },
+        {
+            "Object_ID": "object_8",
+            "Image_File": "object_3.png",
+            "Extracted_Text": "No text extracted.",
+            "Summary": "No text extracted."
+        },
+        {
+            "Object_ID": "object_9",
+            "Image_File": "object_6.png",
+            "Extracted_Text": "No text extracted.",
+            "Summary": "No text extracted."
+        },
+        {
+            "Object_ID": "object_10",
+            "Image_File": "object_10.png",
+            "Extracted_Text": "No text extracted.",
+            "Summary": "No text extracted."
+        },
+        {
+            "Object_ID": "object_11",
+            "Image_File": "object_14.png",
+            "Extracted_Text": "No text extracted.",
+            "Summary": "No text extracted."
+        },
+        {
+            "Object_ID": "object_12",
+            "Image_File": "object_12.png",
+            "Extracted_Text": "No text extracted.",
+            "Summary": "No text extracted."
+        },
+        {
+            "Object_ID": "object_13",
+            "Image_File": "object_13.png",
+            "Extracted_Text": "No text extracted.",
+            "Summary": "No text extracted."
+        },
+        {
+            "Object_ID": "object_14",
+            "Image_File": "object_11.png",
+            "Extracted_Text": "No text extracted.",
+            "Summary": "No text extracted."
+        }
+    ]
+}
