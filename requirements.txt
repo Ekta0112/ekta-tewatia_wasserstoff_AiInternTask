@@ -9,3 +9,4 @@
 !which tesseract
 pre-trained segmentation models
 opencv-python
+TensorFlow
